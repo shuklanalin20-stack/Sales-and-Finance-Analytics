@@ -1,13 +1,13 @@
 # Sales-and-Finance-Analytics
-Introduction
+Introduction---
 Atliq Hardware specializes in selling a wide range of hardware products, including personal computers, mice, printers, and various peripheral devices. Our diverse product lineup caters to a broad range of customers, and we also manufacture our products. To reach our customers, we utilize intermediaries such as retail giants like Croma and Best Buy, as well as popular online marketplaces like Flipkart and Amazon.
 
 These intermediaries play a crucial role in connecting Atliq's products with end consumers, ensuring our offerings are accessible to the general public.
 
-Problem Statement
+Problem Statement--
 To develop an interactive business intelligence dashboard, Sales and Finance Analytics Report, aimed at extracting decision-making insights for well-articulated strategies at Atliq Hardware.
 
-Sales Analysis
+Sales Analysis---
 Objectives
 Top 10 Products with Sales Increase: Identify which products had the biggest increase in sales from 2020 to 2021.
 Division Sales Report: Create a report showing total revenue in 2020 and 2021 and how much sales grew.
@@ -17,7 +17,8 @@ Top 5 Sales Countries in 2021: Identify the five countries with the highest sale
 Sales Analysis Reports
 Top 10 Products with Sales Increase
 
-Insights: The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
+Insights:
+The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
 Division Sales Report
 
 Insights:
@@ -26,11 +27,13 @@ Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% i
 Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).
 Top and Bottom 5 Sold Products
 
-Top 5 Products by Quantity: Insights on best-performing products, with "AQ Master wired x1 Ms" leading.
+Top 5 Products by Quantity:
+Insights on best-performing products, with "AQ Master wired x1 Ms" leading.
 Bottom 5 Products by Quantity: Insights into underperforming products and considerations for adjustments.
 New Products in 2021
 
-Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
+Insights:
+16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
 Top 5 Sales Countries in 2021
 
 Insights:
@@ -53,16 +56,21 @@ Market Performance vs. Sales Targets Comparison
 Insights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.
 Yearly Profit and Loss (P&L) Report
 
-Insights: Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
+Insights:
+Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
 Quarterly Profit and Loss (P&L) Comparison
 
-Insights: Significant sales growth in 2021 with stable profit margins despite increased costs.
+Insights:
+Significant sales growth in 2021 with stable profit margins despite increased costs.
 Market-Specific Profit and Loss (P&L) Report
 
-Insights: Japan and New Zealand showed the highest profit margins, while Germany had lower margins.
+Insights:
+Japan and New Zealand showed the highest profit margins, while Germany had lower margins.
 Quarterly Gross Margin Percentage (GM%) by Location
 
-Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.
+Insights:
+Variations in profit margins by region, aiding in performance assessments and strategic decisions.
+
 Overall Insights
 Customer Sales Performance: Notable growth in sales, especially in 2021 with a 304% increase.
 Top 10 Products: Continued strong performance of key products from 2020 to 2021.
